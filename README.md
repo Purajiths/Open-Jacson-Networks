@@ -66,7 +66,8 @@ print("----------------------------------------------------------------------")
 
 ```
 ## Output :
-![image](https://github.com/Purajiths/Open-Jacson-Networks/assets/145548193/63ef17c4-a945-48d2-8a97-bb43b4a8c8c6)
+![image](https://github.com/Purajiths/Open-Jacson-Networks/assets/145548193/0b211f15-b730-442b-bf59-8f1daac32934)
+
 
 
 ## Result :
